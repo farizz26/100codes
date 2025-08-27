@@ -1,3 +1,6 @@
+//Write a program to input two numbers and display their sum, difference, product, and quotient.
+
+
 #include <stdio.h>
 
 int main() {
@@ -20,7 +23,7 @@ int main() {
     printf("Product: %.2f\n", product);
 
     if (num2 != 0) {
-        printf("Quotient: %.2f\n", num1 / num2);
+        printf("Quotient: %.2f\n", quotient);
     } else {
         printf("Quotient: Undefined (cannot divide by zero)\n");
     }
