@@ -1,14 +1,13 @@
 # 100 Codes: Daily C Coding
 
 Welcome to **100 Codes: Daily C Coding**!  
-This project is a personal journey by (@farizz26) to practice and improve my C programming skills by solving coding challenges every day.
+This project is a personal journey to practice and improve my C programming skills by solving coding challenges every day.
 
 ## Project Overview
 
 - **Goal:** Solve 100 coding problems in C, one per day.
 - **Language:** C (C Language)
 - **Editor:** Visual Studio Code (VS Code)
-- **Author:** Fariz
 
 ## Getting Started
 
